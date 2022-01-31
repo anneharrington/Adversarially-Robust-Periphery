@@ -1,5 +1,5 @@
 # Adversarially-Robust-Periphery
-Code + Data from the paper "Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks" by Anne Harrington + Arturo Deza published as an Spotlight in ICLR 2022. Link to paper: https://openreview.net/forum?id=yeP_zx9vqNm
+Code + Data from the paper "Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks" by Anne Harrington + Arturo Deza published as a Spotlight in ICLR 2022. Link to paper: https://openreview.net/forum?id=yeP_zx9vqNm
 
 All the participant data with respect to the experiments below are available in the *psychophysics* folder.
 
