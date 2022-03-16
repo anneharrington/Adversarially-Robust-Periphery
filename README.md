@@ -12,6 +12,9 @@ All the code wrt to the computational experiments in the paper can be seen in th
 The Visual Stimuli used in our experiments can be downloaded here:
 https://www.kaggle.com/neurosurfer/peripheral-stimuli
 
+Our paper was also recently featured at MIT News:
+https://news.mit.edu/2022/machine-peripheral-vision-0302
+
 If you have found this documentation, code, data and research useful for your current research please consider citing:
 
 ```
