@@ -7,7 +7,10 @@ All the participant data with respect to the experiments below are available in 
 
 ![2AFC Demo](https://github.com/ArturoDeza/Adversarially-Robust-Periphery/blob/main/Demo_Gifs/2AFC_Demo.gif)
 
-All the code wrt to the computational experiments in the paper can be seen in the *Machine* folder.
+All the code wrt to the computational experiments in the paper can be seen in the *Machine* folder (to be uploaded).
+
+The Visual Stimuli used in our experiments can be downloaded here:
+https://www.kaggle.com/neurosurfer/peripheral-stimuli
 
 If you have found this documentation, code, data and research useful for your current research please consider citing:
 
